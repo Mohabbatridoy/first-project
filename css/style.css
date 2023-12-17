@@ -1,3 +1,10 @@
 body{
     font-family: "Gill Sans", sans-serif;
 }
+
+.banner-container{
+    background-color: antiquewhite;
+}
+.banner-column{
+    background-color: rgb(82, 74, 13);
+}
