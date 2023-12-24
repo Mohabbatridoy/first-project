@@ -3,7 +3,7 @@ body{
 }
 
 .banner-container{
-    background-color: antiquewhite;
+    background-color: #faebd7;
 }
 .banner-column{
     background-color: rgb(82, 74, 13);
@@ -29,4 +29,12 @@ body{
 .img-padding{
     padding-left: 25px;
     padding-right: 25px;
+}
+
+.extra-p{
+    background-color: #faebd7;
+    padding: 5px;
+}
+.extra-c{
+    background-color: #524A0D;
 }
