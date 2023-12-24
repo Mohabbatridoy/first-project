@@ -8,3 +8,25 @@ body{
 .banner-column{
     background-color: rgb(82, 74, 13);
 }
+
+
+.navbar-container{
+    background-color: #524A0D;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin-top: -10px;
+}
+.nav-position{
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.about-container{
+    background-color: #524A0D;
+}
+
+.img-padding{
+    padding-left: 25px;
+    padding-right: 25px;
+}
