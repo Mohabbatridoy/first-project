@@ -30,3 +30,30 @@ body{
     padding-left: 25px;
     padding-right: 25px;
 }
+
+.Education-container{
+    background-color: #524A0D;
+}
+.edu-text-color{
+    color: #faebd7;
+}
+
+.circle{
+    background-color: #faebd7;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.dark-color{
+    color: #524A0D;
+}
+.light-color{
+    color: #faebd7;
+}
+.dark-bg{
+    background-color: #524A0D;
+}
+.light-bg{
+    background-color: #faebd7;
+}
