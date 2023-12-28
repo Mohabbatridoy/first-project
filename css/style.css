@@ -57,3 +57,12 @@ body{
 .light-bg{
     background-color: #faebd7;
 }
+
+.project-container{
+    background-color: #faebd7;
+}
+
+.img{
+    width: 250px;
+    height: 200px;
+}
