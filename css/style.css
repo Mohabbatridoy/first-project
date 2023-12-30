@@ -70,3 +70,11 @@ body{
 .Portfolio-bg{
     background-color: #524A0D;
 }
+
+.contact-form{
+    background-color: aliceblue;
+}
+
+.brder-weight{
+    border: #524A0D 5px!important;
+}
