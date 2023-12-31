@@ -75,6 +75,20 @@ body{
     background-color: aliceblue;
 }
 
-.brder-weight{
-    border: #524A0D 5px!important;
+.footer{
+    background-color: slategray;
+}
+
+.footer-circle{
+    background-color: #faebd7;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    font-size: 40px;
+    display: inline-block;
+}
+
+.btn:hover{
+    background-color: #524A0D;
+    color: aliceblue;
 }
